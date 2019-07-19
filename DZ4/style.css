@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: "Mixa Extra Light Demo";
+    src: url("./Font/Mixa-ExtraLightDemo.woff2") format("woff2"),
+        url("./Font/Mixa-ExtraLightDemo.woff") format("woff");
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+header {font-family: Verona, serif; font-weight: 500; text-align: right}
+
+h1 {font-size: 12pt}
+
+h3 {font-family: Mixa Extra Light Demo, serif; normal; text-decoration: underline; text-indent: 5mm}
+
+article p {font-family: Mixa Extra Light Demo, serif; normal; text-indent: 5mm}
+
+footer p {font-family: Verona, serif; font-weight: 500}
